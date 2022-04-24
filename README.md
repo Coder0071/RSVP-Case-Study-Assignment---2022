@@ -28,4 +28,7 @@ Note: It is highly recommended to create the SQL database on your local machine 
 ## The Following is ERD Diagram provided: 
 ![image](https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png)
 
-
+## Data Files:
+1. IMDB+dataset+import.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+dataset+import%20(1).sql
+2. IMDB+question.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+question%20(1).sql
+3. IMDb+movies+Data+and+ERD+final.xlsx. https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDb+movies+Data+and+ERD+final%20(1).xlsx
