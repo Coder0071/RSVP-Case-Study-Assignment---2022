@@ -1,7 +1,7 @@
          
-# <p align="center" ><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="200" height="100">SQL-Case-Study - IIITB & UPGRAD <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="200" height="100"> </p>
+# <b><i><p align="center" ><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="200" height="100">SQL-Case-Study - IIITB & UPGRAD <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="200" height="100"> </p></i></b>
 
-## Problem Introduction:
+## <i><p align="center">:Problem Introduction:</p></i> 
 
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022. 
 
@@ -9,7 +9,7 @@ The production company wants to plan their every move analytically based on data
 
 You are a data analyst and an SQL expert. You have to use SQL to analyse the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script given below. You have to write the solution code below every question and submit the same SQL script file with the solution in the 'Submission' segment.
 
-## Data Set and Database Creation:
+## <i><p align="center">:Data Set and Database Creation:</p></i>
 
 You were already introduced to the dataset in the optional practice assignment of the Data Modelling module. You might have created the tables and inserted all the values for the entire schema. If you have completed this, you can verify your code and database from the SQL script file given at the bottom of the page.
 
@@ -26,10 +26,10 @@ Note: It is highly recommended to create the SQL database on your local machine 
 
 
 
-## The Following is ERD Diagram provided: 
+## <i><p align="center">:The Following is ERD provided:</p></i>
 ![image](https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png)
 
-## Data Files:
+## <i><p align="center">:Data Files:</p></i>
 1. IMDB+dataset+import.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+dataset+import%20(1).sql
 2. IMDB+question.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+question%20(1).sql
 3. IMDb+movies+Data+and+ERD+final.xlsx. https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDb+movies+Data+and+ERD+final%20(1).xlsx
