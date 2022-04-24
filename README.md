@@ -2,7 +2,7 @@
 
  
  
-### <b><i><p align="left" ><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="200" height="100">SQL-Case-Study - IIITB & UPGRAD <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="200" height="100"> </p></i></b>
+# <b><i><p align="center" ><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="200" height="100">SQL-Case-Study - IIITB & UPGRAD <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="200" height="100"> </p></i></b>
 
 ## <i><p align="center">:Problem Introduction:</p></i> 
 
