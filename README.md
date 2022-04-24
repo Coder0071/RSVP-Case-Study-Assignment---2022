@@ -1,4 +1,7 @@
-         
+ <p align="center" ><img src="https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/w_1600,c_limit/Data-Animation_v2white.gif" width="300" height="200"> </p>
+
+ 
+ 
 # <b><i><p align="center" ><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="200" height="100">SQL-Case-Study - IIITB & UPGRAD <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="200" height="100"> </p></i></b>
 
 ## <i><p align="center">:Problem Introduction:</p></i> 
@@ -12,15 +15,8 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 ## <i><p align="center">:Data Set and Database Creation:</p></i>
 
 You were already introduced to the dataset in the optional practice assignment of the Data Modelling module. You might have created the tables and inserted all the values for the entire schema. If you have completed this, you can verify your code and database from the SQL script file given at the bottom of the page.
-
- 
-
 For those who didn't attempt the optional Data Modelling Assignment, download the dataset given below and follow the given steps to insert all the values for the entire schema. 
-
- 
-
 Note: It is highly recommended to create the SQL database on your local machine using the below dataset. However, note that this part is completely optional and will not carry any grades and if you wish, you can directly run the SQL script given at the end of this segment to load the dataset.
-
 
 
 
@@ -33,3 +29,7 @@ Note: It is highly recommended to create the SQL database on your local machine 
 1. IMDB+dataset+import.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+dataset+import%20(1).sql
 2. IMDB+question.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+question%20(1).sql
 3. IMDb+movies+Data+and+ERD+final.xlsx. https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDb+movies+Data+and+ERD+final%20(1).xlsx
+
+
+
+
