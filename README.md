@@ -1,4 +1,4 @@
-# SQL-Case-Study
+# SQL-Case-Study - IIITB & UPGRAD
 
 ## Problem Introduction:
 
