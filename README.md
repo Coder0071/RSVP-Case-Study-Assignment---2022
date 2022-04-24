@@ -25,7 +25,7 @@ Note: It is highly recommended to create the SQL database on your local machine 
 
 
 
-The Following is ERD Diagram provided: 
+## The Following is ERD Diagram provided: 
 ![image](https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png)
 
 
