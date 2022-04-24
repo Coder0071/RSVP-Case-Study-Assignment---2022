@@ -1,4 +1,6 @@
-# SQL-Case-Study - IIITB & UPGRAD
+# SQL-Case-Study - IIITB & UPGRAD  ![image](https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png | width=100)
+![image](https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png)
+
 
 ## Problem Introduction:
 
