@@ -1,8 +1,5 @@
- <p align="center" ><img src="https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/w_1600,c_limit/Data-Animation_v2white.gif" width="300" height="200"> </p>
-
  
- 
-# <b><i><p align="center"><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="100" height="50" left="0">SQL-Case-Study <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="100" height="50"> </p></i></b>
+# <b><i><p align="center"><img src="https://user-images.githubusercontent.com/102786084/166214895-62674395-eb46-4f47-a9a9-c185090b17e0.png" width="200" height="100"><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="100" height="50" left="0">SQL-Case-Study <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="100" height="50"> <img src="https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/w_1600,c_limit/Data-Animation_v2white.gif" width="200" height="100"> </p></i></b>
 
 ## <i><p align="center">:Problem Introduction:</p></i> 
 
@@ -23,12 +20,7 @@ Note: It is highly recommended to create the SQL database on your local machine 
 
 
 ## <i><p align="center">:The Following is ERD provided:</p></i>
-![image](https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png)
-
-## <i><p align="center">:Data Files:</p></i>
-1. <p>IMDB+dataset+import.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+dataset+import%20(1).sql</p>
-2. <p> IMDB+question.sql https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDB+question%20(1).sql</p>
-3. <p>IMDb+movies+Data+and+ERD+final.xlsx. https://github.com/Coder0071/SQL-Case-Study-/blob/1d3438ff030661f1dd7fb0fe28cd69a16034bf8e/IMDb+movies+Data+and+ERD+final%20(1).xlsx</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png"></p>
 
 
 
