@@ -22,6 +22,11 @@ Note: It is highly recommended to create the SQL database on your local machine 
 
 ## <i><p align="center">:The Following is ERD provided:</p></i>
 <p align="center"><img src="https://user-images.githubusercontent.com/102786084/164955047-1f1d9fc0-55d9-498c-9f18-f159034359fb.png"></p>
+<br>
+<br>
+<p align="center"><img src="https://media.tenor.com/sojiZ1PEt0QAAAAC/thank-you-thankyou.gif"></p>
+
+
 
 
 
