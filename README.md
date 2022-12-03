@@ -1,6 +1,6 @@
  
 # <b><i><p align="center"><img src="https://user-images.githubusercontent.com/102786084/164955520-d88b1402-7b4f-4cf6-b941-a82e528ff66b.png" width="100" height="50" left="0">    SQL-Case-Study   <img src="https://user-images.githubusercontent.com/102786084/164955542-46064661-8aed-4d35-a3d4-6dcfb2a157db.png" width="100" height="50"></p></i></b>
-<p align="center"> <img src="https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/w_1600,c_limit/Data-Animation_v2white.gif" width="200" height="100"> </p></i></b>
+<p align="center"> <img src="https://media.wired.com/photos/61a4e52aa828e7952ac35873/master/w_1600,c_limit/Data-Animation_v2white.gif" width="500" height="300"> </p></i></b>
 
 ## <i><p align="center">:Problem Introduction:</p></i> 
 
